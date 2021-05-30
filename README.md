@@ -2,12 +2,16 @@ Hello, I'm Sonali Chavan. I am full-stack web developer. I am passionate about e
 
 I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
 
-Project 1:
+**Project 1:**
+
 Technologies used: Nodejs, Express, Mongo 
+
 Github URL: https://github.com/ms-cs-stevens/helping_hands
 
-Project 2:
+**Project 2:**
+
 Technologies used: Nodejs, Mongo, Express, React, Google API, Google Maps, firebase authentication, firestore
+
 Github URL: https://github.com/ms-cs-stevens/roadster
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
